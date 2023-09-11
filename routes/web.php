@@ -2,9 +2,9 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\HomeController;
-use App\http\Controllers\CaixaController;
-use App\http\Controllers\ProcessoController;
-use App\http\Controllers\PDFController;
+use App\Http\Controllers\CaixaController;
+use App\Http\Controllers\ProcessoController;
+use App\Http\Controllers\PDFController;
 
 /*
 |--------------------------------------------------------------------------
